@@ -1,0 +1,11 @@
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.Form1.resources
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.Properties.Resources.resources
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.csproj.GenerateResource.cache
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\student\Documents\Nikodem Pondel Bran\Milionerzy\obj\Debug\Milionerzy.pdb
